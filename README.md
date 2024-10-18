@@ -1,5 +1,5 @@
 # Atividades-WEB-I---HTML
-### Atividade HTML
+### Atividades HTML
 - [Atividade 1](Atividade1.html)
 - [Atividade 2](Atividade2.html)
 - [Atividade 3](Atividade3.html)
