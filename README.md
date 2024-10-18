@@ -6,3 +6,4 @@
 - [Atividade 4](Atividade4.html)
 - [Atividade 5](Atividade5.html)
 - [Atividade 6](Atividade6.html)
+- [Atividade 7](Atividade7.html)
